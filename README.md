@@ -10,7 +10,7 @@ The purpose of this project was to create an automated pipeline that takes in ne
 
 ### Summary
 
-To confirm the data was properly replaced in the SQL database tables, a query was run to confirm the row counts were correct. 
+To confirm the data was properly replaced in the SQL database tables, a query was run to confirm the row counts were correct for the movies and ratings tables. 
 
 ###### Movies Query
 > ![movies_query](https://user-images.githubusercontent.com/77405273/112738644-f4483e00-8f21-11eb-9110-74a6df61ec98.png)
